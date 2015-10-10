@@ -25,7 +25,7 @@ cloudera-hadoop是由[cloudera](https://github.com/cloudera)公司开发的一�
 3. 通过访问类似于 http://hadoop1:7180 完成可视化安装
 4. 撰写相应文档，记录安装过程、使用方法、参考文献、常见问题等
 
-详情可见文末 参考文献
+详情可见文末 [参考文献](https://github.com/harryprince/cloudera-hadoop#参考文献)
 
 # 项目信息
 
@@ -50,6 +50,8 @@ password：保密 -->
 本次项目需要为每个项目成员在主机上分别建立一个账号进行后续的操作
 需要征集成员的GitHubID、主机UserID以及主机UesrID对应的密码
 主机UserID以及主机UesrID对应的密码由成员自定义后发送到我的邮箱7harryprince@gmail.com 即可，组长将为组员在主机上分别建立对应的账号。
+
+整个项目内容比较多，需要依据每个成员的可参与时间和偏好进行分工合作。
 
 序号|成员 GitHub ID|主机 User ID|对应密码|权限
 ---|---|---|---
