@@ -54,7 +54,7 @@ password：保密 -->
 整个项目内容比较多，需要依据每个成员的可参与时间和偏好进行分工合作。
 
 序号|成员 GitHub ID|主机 User ID|对应密码|权限
----|---|---|---
+---|---|---|---|---
 1|harryprince|harryprince|aaabbb666888|组长
 2|ABC|abc|tttkkk123123|组员
 
